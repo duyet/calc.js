@@ -1,5 +1,5 @@
 {
-  "name": "calc",
+  "name": "calc.js",
   "version": "0.1.0",
   "description": "Calc.js evaluate expressions and supports chained operations.",
   "main": "index.js",
