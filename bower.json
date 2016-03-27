@@ -1,0 +1,27 @@
+{
+  "name": "calc",
+  "description": "Calc.js evaluate expressions and supports chained operations.",
+  "main": "index.js",
+  "authors": [
+    "Van-Duyet Le <me@duyetdev.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "math",
+    "calc",
+    "expressions"
+  ],
+  "homepage": "https://github.com/duyetdev/calc.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
