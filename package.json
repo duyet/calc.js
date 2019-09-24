@@ -21,6 +21,7 @@
     "url": "https://github.com/duyetdev/calc.js/issues"
   },
   "homepage": "https://github.com/duyetdev/calc.js#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "dependencies": {
     "mathjs": "^6.0.0"
   }
