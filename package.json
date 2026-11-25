@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/duyetdev/calc.js#readme",
   "dependencies": {
-    "mathjs": "^13.2.2"
+    "mathjs": "^15.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
